@@ -1,0 +1,5 @@
+* 2015/5/25~2015/5/29
+** 25th May: meet dean of department of informatics, University of technology, Santa Maria, we talk something about the development of ALMA database.
+** 26th May: talk to Mr. Zhong Wang: report the contents of the talk yesterday.
+** TODO I need to learn how to manage the wordpress website, it is not a big part of my work, but it would be a regular work.
+** TODO Read the NGAS related document class.
