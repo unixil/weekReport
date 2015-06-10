@@ -6,6 +6,10 @@
 * 2015/6/1~2015/6/5
 ** prepare for a talk about supernova dust on July 10th
 ** TODO learn to write a gaussfit function in python or matlab
-** TODO learn to use emacs to organize the notes
-** TODO learn to use git to synchronize my work
+** DONE learn to use emacs to organize the notes
+** DONE learn to use git to synchronize my work
 ** TODO Read the NGAS related document class.
+* 2015/6/8~2015/6/12
+** 2015/6/8~2015/6/9: install oracle12c successfully after a long time and many efforts.
+** start to write a small python script to do curve fit.
+** TODO learn to be a DBA
