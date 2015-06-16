@@ -13,3 +13,7 @@
 ** 2015/6/8~2015/6/9: install oracle12c successfully after a long time and many efforts.
 ** start to write a small python script to do curve fit.
 ** TODO learn to be a DBA
+* 2015/6/15~2015/6/19
+** I spend too many time in database, I should spend sometime in doing research.
+** Cent OS is more suitable for oracle database 12c.
+** from 2015/6/16 I will spend at least 6 hours in astonomy.
