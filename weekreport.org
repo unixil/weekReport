@@ -37,5 +37,23 @@ pdepe package to solve partial diffusion equation.
 ** I hope to do some data job with Lei Zhu.
 ** TODO write a gauss fit program in both python and matlab.
 ** TODO learn to write a gaussfit function in python or matlab
-** TODO Read the NGAS related document class.
-** TODO learn to be a DBA
+** DONE Read the NGAS related document class.
+** DONE learn to be a DBA
+** lean interferometry and basic radio astronomy, Lei Zhu give me a
+small job that is to do image construction with 'CLEAN' method, so I
+spend several days to learn why we need CLEAN algorithm and how to do
+it.
+** I sent a email to Prof. Wang because Lei Zhu and Wei Wang ask me to
+do so, Prof. Wang know ADASS very well and he points out that the
+meeting is not suitable for us to attend until our database has been
+built successfully. Professor Wang also arrange Lei Zhu and me to go
+to US to get some learning there which is a very good oppotunity for
+me. I should be more active during the learning periods.
+** just now I found the emacs should be split into two columns to gain
+a better effiency, because the line-wrap is turned on.
+** I need a account in ESO to access some files I need.
+* 2015/6/30~2015/7/4
+** TODO write a gauss fit program in both python and matlab.
+** TODO learn to write a gaussfit function in python or matlab
+** TODO learn how to use 'CLEAN' method in CASA
+** TODO make preparation to report the recent progress to Prof. Wang.
