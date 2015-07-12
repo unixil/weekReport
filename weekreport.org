@@ -57,3 +57,14 @@ a better effiency, because the line-wrap is turned on.
 ** TODO learn to write a gaussfit function in python or matlab
 ** TODO learn how to use 'CLEAN' method in CASA
 ** TODO make preparation to report the recent progress to Prof. Wang.
+* 2015/7/6~2015/7/10
+** Originally lei zhu and I plan to go to nrao at charllotsville,
+Virginia to study database technology, but nrao deferred our visit for
+two weeks.
+** I study image reduction technology from Lei Zhu and it is a good
+oppotunity for me to begin my astronomy field.
+** I begin to read SICP again, and I finished the first chapter, but I
+should do the excecises myself, this will take me some time but will
+certainly be benefit for me.
+** I should stay calm and take things easy, the key to make good study
+is to do it everyday and never stop.
